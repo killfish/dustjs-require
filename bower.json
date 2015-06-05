@@ -2,7 +2,7 @@
 	"name": "requirejs-dustjs",
 	"description": "A requirejs plugin for loading and compiling dustjs templates.",
 	"version": "1.2.6",
-	"repository": "git@github.com:michaelleeallen/dustjs-require.git",
+	"repository": "git@github.com:killfish/dustjs-require.git",
 	"devDependencies": {
 		"requirejs": "~2.1",
 		"dustjs-linkedin": "~2.2"
